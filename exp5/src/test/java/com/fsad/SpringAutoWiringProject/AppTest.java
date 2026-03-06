@@ -1,4 +1,4 @@
-package com.fsad.SpringDIProject;
+package com.fsad.SpringAutoWiringProject;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
